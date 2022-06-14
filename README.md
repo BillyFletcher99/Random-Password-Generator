@@ -20,5 +20,5 @@ needed to create a simple application, and become a little more fluent with it.
 
 REPO:https://github.com/BillyFletcher99/Random-Password-Generator
 
-WEB:
+WEB:https://billyfletcher99.github.io/Random-Password-Generator/
 
